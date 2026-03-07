@@ -61,5 +61,3 @@ Re-refridge is an open source product to reduce food waste
 **Education**  
 ---
 **George Washington University** Bachelor of Fine Arts  May 2016
-
-Certificates/ Tech Talk(s)  

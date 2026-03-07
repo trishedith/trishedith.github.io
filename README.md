@@ -2,6 +2,8 @@
 ---
 
 JavaScript, TypeScript, SQL | React, Tailwind, Vite | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma  
+
+
 **Experience**  
 ---
 

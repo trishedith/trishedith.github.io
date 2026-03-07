@@ -14,9 +14,9 @@ JavaScript, TypeScript, SQL | React, Tailwind, Vite | Node, Express, Mongoose | 
 
 **Software Engineer**  OSLabs tech accelerator	July 12, 2025 \- April 19, 2026
 
-* Currently building an Open Source dev-tool called **PatternBook, for generating front end documentation. Unlike existing documentation tools,  PatternBook takes less than 30 seconds and its default use case is zero-config.**  
-* **Utilizing React and TypeScript, I contributed to the front end by making the layout responsive and interactive ( you can resize the info and move the guide left right or down.**    
-* .  By limiting the scope to a stack that is common among student and indie developers, we offer a way of understanding codebases without unneceeary extra content.  This saves space, speeds development.  It also benefits companies or teams when they ae on-boarding a new member.  The visual of the front end makes it clear what does what and who is linked to who.  
+* Currently building an Open Source dev-tool called PatternBook, for generating front end documentation. Unlike existing documentation tools,  PatternBook takes less than 30 seconds and its default use case is zero-config.
+* Utilizing React and TypeScript, I contributed to the front end by making the layout responsive and interactive ( you can resize the info and move the guide left right or down.
+* By limiting the scope to a stack that is common among student and indie developers, we offer a way of understanding codebases without unneceeary extra content.  This saves space, speeds development.  It also benefits companies or teams when they are on-boarding a new member.  The visual of the front end makes it clear what does what and who is linked to who.  
 * Compared to Storybook, the product did not take more than 30seconds to function.  We utilized Zustand’s store for state management and tested components with Vite.  
 
 **Production Manager**  BCCO NYC	August 20, 2018 \- January 21, 2025
@@ -60,7 +60,6 @@ Re-refridge is an open source product to reduce food waste
 
 **Education**  
 ---
-
 **George Washington University** Bachelor of Fine Arts  May 2016
 
 Certificates/ Tech Talk(s)  

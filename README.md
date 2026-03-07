@@ -1,6 +1,7 @@
 **Resume for Trish O'Meara- Gillespie**
 
 trishedith@gmail.com
+www.linkedin.com/in/trishomeara
 
 **Tech. Skills**  
 ---

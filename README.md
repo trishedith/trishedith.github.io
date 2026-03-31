@@ -1,10 +1,11 @@
 **Resume for Trish O'Meara- Gillespie**
 
- Technical Skills
-
+ ***Technical Skills***
+ ***
 JavaScript, TypeScript, SQL | React, Tailwind, Vite, Zustand, Vercel | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma
 
-Experience
+***Experience ***
+***
 Software Engineer | OSLabs | PatternBook - front end documentation generator 	July 12, 2025 - April 19, 2026
 Designed with the promise of zero-config, PatternBook generates visual documentation in under 30 seconds.  PatternBook requires no setup from the developer.
 Built with React and TypeScript to integrate seamlessly into existing developer workflows.  TypeScript specifically was chosen to enforce type safety during documentation generation. This reduces errors across component trees.
@@ -19,8 +20,8 @@ Coordinated and directed the daily operations schedule implementation, inventory
 Performed regular maintenance of brother GTX printers.  Designed samples using Adobe Photoshop and corresponded with clients to ensure satisfaction with their order using MSOffice365.
 Researched and introduced the method known as “direct to film,” in-house saving 70% on price of materials and time.
 
-Projects
-
+***Projects***
+***
 Fake News | Full Stack Engineer
 Fake News is an app using AI and LLM for determining if a user provided statement is correct. The LLM is fed news articles as a JSON.  Each entry on the JSON was modified to contain the necessary meta-data for processing with OpenAI’s “text-embedding-3-small,” this model takes text input and builds vectors. 
 Fake News used Pinecone’s vector database to store the vectors generated.  Utilizing Pinecone’s cosign similarity search to find and supply data that is potentially similar to the original user provided statement.   
@@ -34,5 +35,6 @@ Re-refridge is an open source product developed to address the problem of how to
 Users can create multiple fridges, add/ delete items to the fridge.  The items all contain metadata with expiration or use by dates.   It is also possible for two users to share a fridge.
 The app notifies users when their fridge has items that are going to expire.  
 
-Education
+*** Education ***
+***
 George Washington University Bachelor of Fine Arts  	May 2016

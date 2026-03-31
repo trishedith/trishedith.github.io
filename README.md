@@ -2,13 +2,14 @@
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
 
- ***Technical Skills***
+ **Technical Skills**
  ***
 JavaScript, TypeScript, SQL | React, Tailwind, Vite, Zustand, Vercel | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma
 
-***Experience***
+**Experience**
 ***
 Software Engineer | OSLabs | PatternBook - front end documentation generator 	
+
 July 12, 2025 - April 19, 2026
 
 - Designed with the promise of zero-config, PatternBook generates visual documentation in under 30 seconds.  PatternBook requires no setup from the developer.
@@ -20,13 +21,14 @@ July 12, 2025 - April 19, 2026
 - PatternBook’s visual documentation is created by running a scanner on the components.  This generates a JSON manifest that PatternBook consults and uses for documentation.  This JSON file can be updated by running one or more of PatternBook’s commands.  For example, “scan” creates or updates a manifest. The command “analyze” takes the manifest and shows it in the browser.
 
 Production Manager |  BCCO NYC	
+
 August 20, 2018 - January 21, 2025
 
 - Coordinated and directed the daily operations schedule implementation, inventory and task delegation.
 - Performed regular maintenance of brother GTX printers.  Designed samples using Adobe Photoshop and corresponded with clients to ensure satisfaction with their order using MSOffice365.
 - Researched and introduced the method known as “direct to film,” in-house saving 70% on price of materials and time.
 
-***Projects***
+**Projects**
 ***
 Fake News | Full Stack Engineer
 
@@ -39,6 +41,6 @@ Re-refridge
 - Users can create multiple fridges, add/ delete items to the fridge.  The items all contain metadata with expiration or use by dates.   It is also possible for two users to share a fridge.
 - The app notifies users when their fridge has items that are going to expire.  
 
-***Education***
+**Education**
 ***
 George Washington University Bachelor of Fine Arts  	May 2016

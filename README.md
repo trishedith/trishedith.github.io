@@ -1,11 +1,11 @@
 **Resume for Trish O'Meara- Gillespie**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
-
+***
  **Technical Skills**
  ***
 JavaScript, TypeScript, SQL | React, Tailwind, Vite, Zustand, Vercel | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma
-
+***
 **Experience**
 ***
 Software Engineer | OSLabs | PatternBook - front end documentation generator 	
@@ -27,7 +27,7 @@ August 20, 2018 - January 21, 2025
 - Coordinated and directed the daily operations schedule implementation, inventory and task delegation.
 - Performed regular maintenance of brother GTX printers.  Designed samples using Adobe Photoshop and corresponded with clients to ensure satisfaction with their order using MSOffice365.
 - Researched and introduced the method known as “direct to film,” in-house saving 70% on price of materials and time.
-
+***
 **Projects**
 ***
 Fake News | Full Stack Engineer
@@ -40,7 +40,7 @@ Re-refridge
 - Re-refridge is an open source product developed to address the problem of how to reduce food waste.  The front end UI allows a user to register an account or sign in and takes user input and stores it on a database.  This database table is the user’s ‘fridge.’
 - Users can create multiple fridges, add/ delete items to the fridge.  The items all contain metadata with expiration or use by dates.   It is also possible for two users to share a fridge.
 - The app notifies users when their fridge has items that are going to expire.  
-
+***
 **Education**
 ***
 George Washington University Bachelor of Fine Arts  	May 2016

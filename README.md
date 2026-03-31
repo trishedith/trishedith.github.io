@@ -6,7 +6,7 @@
  ***
 JavaScript, TypeScript, SQL | React, Tailwind, Vite, Zustand, Vercel | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma
 
-***Experience ***
+***Experience***
 ***
 Software Engineer | OSLabs | PatternBook - front end documentation generator 	July 12, 2025 - April 19, 2026
 Designed with the promise of zero-config, PatternBook generates visual documentation in under 30 seconds.  PatternBook requires no setup from the developer.
@@ -37,6 +37,6 @@ Re-refridge is an open source product developed to address the problem of how to
 Users can create multiple fridges, add/ delete items to the fridge.  The items all contain metadata with expiration or use by dates.   It is also possible for two users to share a fridge.
 The app notifies users when their fridge has items that are going to expire.  
 
-*** Education ***
+***Education***
 ***
 George Washington University Bachelor of Fine Arts  	May 2016

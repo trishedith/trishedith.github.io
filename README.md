@@ -1,4 +1,5 @@
 **Resume for Trish O'Meara- Gillespie**
+[LinkedIn](www.linkedin.com/in/trishomeara)
 
  ***Technical Skills***
  ***

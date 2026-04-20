@@ -12,13 +12,13 @@ Software Engineer | OSLabs | PatternBook - front end documentation generator
 
 July 12, 2025 - April 19, 2026
 
-- Designed with the promise of zero-config, PatternBook generates visual documentation in under 30 seconds.  PatternBook requires no setup from the developer.
-- Built with React and TypeScript to integrate seamlessly into existing developer workflows.  TypeScript specifically was chosen to enforce type safety during documentation generation. This reduces errors across component trees.
-- Patterbook’s UI is fully resizable and adapts to each developer’s workflow without causing layout constraints.
-- Intentionally scoped to a stack that is popular with student and independent developers: TypeScript, React, Vite, and Tailwind,  PatternBook makes codebases immediately approachable. 
-- Optimized for a minimal footprint, installing only necessary dependencies to reduce bundle size and accelerate developer workflow.
-- Improves the speed of developer onboarding by generating visual documentation that maps component relationships, reducing the time needed to understand and onboard to a new codebase.  
-- PatternBook’s visual documentation is created by running a scanner on the components.  This generates a JSON manifest that PatternBook consults and uses for documentation.  This JSON file can be updated by running one or more of PatternBook’s commands.  For example, “scan” creates or updates a manifest. The command “analyze” takes the manifest and shows it in the browser.
+● Built with React and TypeScript and integrates seamlessly into developer workflows.
+● Enforces type safety by coding in TypeScript which reduces errors across component trees.
+● Patterbook’s UI is fully resizable and adapts to each developer’s work space.
+● Intentionally scoped to work for the currently most popular stack for front end developers.
+● Optimized for a minimal footprint, installing only necessary dependencies to reduce bundle size and accelerate developer workflow.
+● Improves the speed of developer onboarding by generating visual documentation that maps component relationships.
+● PatternBook reduces the time needed to understand and onboard a developer to a new codebase.
 
 Production Manager |  BCCO NYC	
 

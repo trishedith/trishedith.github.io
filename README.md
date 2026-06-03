@@ -2,47 +2,45 @@
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
 ***
- **Technical Skills**
- ***
-JavaScript, TypeScript, SQL | React, Tailwind, Vite, Zustand, Vercel | Node, Express, Mongoose | MongoDB, PostgreSQL, Pinecone | Docker | OpenAI API, Claude, Gemini, Co-Pilot, ChatGPT | Git, GitHub, Linear, Postman, Jira, Figma
-***
-**Experience**
-***
-Software Engineer | OSLabs | PatternBook - front end documentation generator 	
+Trish O’Meara-Gillespie | Software Engineer
+(917) 608-9489 | trishedith@gmail.com | linkedin.com/in/trishomeara |  github.com/trishedith
 
-July 12, 2025 - April 19, 2026
+TECHNICAL SKILLS  
+TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma
 
-- Built with React and TypeScript and integrates seamlessly into developer workflows.
-- Enforces type safety by coding in TypeScript which reduces errors across component trees.
-- Patterbook’s UI is fully resizable and adapts to each developer’s work space.
-- Intentionally scoped to work for the currently most popular stack for front end developers.
-- Optimized for a minimal footprint, installing only necessary dependencies to reduce bundle size and accelerate developer workflow.
-- Improves the speed of developer onboarding by generating visual documentation that maps component relationships.
-- PatternBook reduces the time needed to understand and onboard a developer to a new codebase.
+EXPERIENCE 
+PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026
+Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
+Reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser
+Owned cross-team coordination as team lead, running daily standups to prevent task overlap and serving as the bridge between the Front End and Back End teams
+Architected a resizable, zero-config UI built with React, TypeScript, TailwindCSS, and Vite that integrates seamlessly into existing developer workflows
+Enforced full-tree type safety using TypeScript and TS-Morph for static analysis, reducing runtime errors 
+Built a library of reusable components with lifting state patterns — for example, buttons that dynamically re-render to mirror the components PatternBook was actively documenting
+Minimized bundle footprint by scoping dependencies only to what was necessary, reducing package size and speeding up installation
+Deployed the product marketing site on Vercel using Astro, connected to GitHub for automatic version updates 
+BCCO NYC | Production Manager	August 2018 - January 2025
+Coordinated the daily operations including schedule implementation, inventory, and task delegation.  
+Researched and implemented direct-to-film printing in-house, reducing production costs by 70%.
+Designed samples using Adobe Photoshop to send to clients using MSOffice365.
+Performed maintenance of Brother GTX printers including software updates and the calibration and hardware upkeep.
 
-Production Manager |  BCCO NYC	
+RECENT PROJECTS
+Re-refridge | an app to customize the inventory of refrigerators 
+Developed to reduce food waste, Re-refridge uses NoSQL to store a user’s refrigerator inventory by adding and deleting food items.
+Allows users to track expiration dates and receive recipe suggestions based on what is expiring soonest.
+Users can also create multiple fridges for work or home.  In addition, a single fridge can have multiple users linked for families or roommates.
+By alerting users when an item is about to expire, the user can optimize meal planning by searching for related recipes.
+Future iterations can link with calorie apps and/or recipe sites based on a user’s cuisine preference(s).
+Mermaid Sailoon | a “choose your adventure” indie web game	
+Used React to create reusable components to transfer state efficiently with custom hooks and built-in hooks
+Deployed using Vercel
+Fake News | a “fact-checking” app	
+Determines whether an input is factual by searching with a large language model (LLM).  Before it is returned, the output is augmented by cosine searching a Pinecone database composed of recent news articles and returning articles that provide additional context for further research.
+This Pinecone database was created with OpenAI’s “text-embedding-3-small” model.  This model was specifically chosen because the database provided was in text format.
+Fake News reduces its space and time complexity by memoizing repeat inputs.
+	
+EDUCATION
+Resident at the Codesmith Tech Accelerator	2026
+George Washington University | BFA	2016
 
-August 20, 2018 - January 21, 2025
-
-- Coordinated and directed the daily operations schedule implementation, inventory and task delegation for a custom print shop.
-- Performed regular maintenance of brother GTX printers.
-- Designed samples using Adobe Photoshop to send to clients using MSOffice365.
-- Researched and implemented the method of printing known as “direct to film,” creating an in-house saving of 70% on cost.
-  
-***
-**Projects**
-***
-Fake News | Full Stack Engineer
-
-- Fake News determines if a user provided statement is factual using a LLM.
-- Uses OpenAI’s “text-emebdding-3-small” to create vectors of data from trusted news sources.
-- The statement is used to cosine search of a PineCone database with these vectors.  
-- The closest results from the cosine search are returned with the LLM’s answer as both sources and links for more info
-- Memoizes popular searches of repeated inputs, uses this cache to save both time and space.
-
-Re-refridge
-- Re-refridge is an open source product developed to address the problem of how to reduce food waste.  
-- The UI allows a user to register an account or sign in on a webpage. 
-- Collects user input and stores it on a MongoDB database.  Users can create multiple fridges, add/ delete items to the fridge.  
-- Using metadata for expiration or use by dates, alerts users when they have a food about to expire.   
-- It is also possible for multiple users to link a single fridge.  
+INTERESTS Fine art, bike adventuring, cats, live music, and videogames

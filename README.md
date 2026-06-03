@@ -1,7 +1,6 @@
-**Resume for Trish O'Meara- Gillespie**
+**Resume for Trish O'Meara- Gillespie | AI/ML + Software Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
-***Trish O’Meara-Gillespie | AI/ML + Software Engineer***
 github.com/trishedith
 
 **TECHNICAL SKILLS**

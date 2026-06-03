@@ -1,15 +1,14 @@
 **Resume for Trish O'Meara- Gillespie**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
-***
-Trish O’Meara-Gillespie | AI/ML + Software Engineer
+***Trish O’Meara-Gillespie | AI/ML + Software Engineer***
 github.com/trishedith
 
-**TECHNICAL SKILLS  
+**TECHNICAL SKILLS**
 TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma
 
-**EXPERIENCE 
-*** PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026 ***
+**EXPERIENCE**
+***PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026***
 
 - Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
 - Reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser

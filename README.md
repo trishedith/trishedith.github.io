@@ -9,8 +9,7 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 
 **EXPERIENCE**
 
-
-***PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026***
+***PatternBook: Team Lead + FullStack Software Engineer	July 2025 - May 2026***
 
 - Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
 - Reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser

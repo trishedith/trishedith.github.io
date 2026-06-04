@@ -1,7 +1,9 @@
-**Resume for Trish O'Meara- Gillespie | AI/ML + Software Engineer**
+**AI/ML + Software Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
-github.com/trishedith
+[GitHub] (github.com/trishedith)
+
+**Resume**
 
 **TECHNICAL SKILLS**
 TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma

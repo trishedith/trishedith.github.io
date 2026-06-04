@@ -1,6 +1,7 @@
 **AI/ML + Software Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
+
 [GitHub](github.com/trishedith)
 
 

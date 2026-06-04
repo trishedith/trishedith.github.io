@@ -1,7 +1,8 @@
-**AI/ML + Software Engineer** | [LinkedIn](https://www.linkedin.com/in/trishomeara) | [GitHub](github.com/trishedith)
+**AI/ML + Software Engineer** [LinkedIn](https://www.linkedin.com/in/trishomeara) | [GitHub](github.com/trishedith)
 
 
 **TECHNICAL SKILLS**
+
 TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma
 
 **EXPERIENCE**
@@ -43,6 +44,7 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 
 
 Resident at Codesmith's Tech Accelerator	2026
+
 George Washington University | BFA	2016
 
 **INTERESTS** Fine art, bike adventuring, cats, live music, and videogames

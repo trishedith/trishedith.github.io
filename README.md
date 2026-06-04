@@ -1,7 +1,7 @@
 **AI/ML + Software Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
-[GitHub] (github.com/trishedith)
+[GitHub](github.com/trishedith)
 
 
 **TECHNICAL SKILLS**
@@ -10,7 +10,6 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 **EXPERIENCE**
 
 ***PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026***
-
 - Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
 - Reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser
 - Owned cross-team coordination as team lead, running daily standups to prevent task overlap and serving as the bridge between the Front End and Back End teams

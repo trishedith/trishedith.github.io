@@ -3,7 +3,6 @@
 [LinkedIn](https://www.linkedin.com/in/trishomeara)
 [GitHub] (github.com/trishedith)
 
-**Resume**
 
 **TECHNICAL SKILLS**
 TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma

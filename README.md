@@ -9,6 +9,8 @@
 TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma
 
 **EXPERIENCE**
+
+
 ***PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026***
 
 - Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
@@ -45,4 +47,4 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 Resident at Codesmith's Tech Accelerator	2026
 George Washington University | BFA	2016
 
-INTERESTS Fine art, bike adventuring, cats, live music, and videogames
+**INTERESTS** Fine art, bike adventuring, cats, live music, and videogames

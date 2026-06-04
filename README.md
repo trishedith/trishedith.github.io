@@ -1,8 +1,4 @@
-**AI/ML + Software Engineer**
-
-[LinkedIn](https://www.linkedin.com/in/trishomeara)
-
-[GitHub](github.com/trishedith)
+**AI/ML + Software Engineer** | [LinkedIn](https://www.linkedin.com/in/trishomeara) | [GitHub](github.com/trishedith)
 
 
 **TECHNICAL SKILLS**

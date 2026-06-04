@@ -29,6 +29,8 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 - Performed maintenance of Brother GTX printers including software updates and the calibration and hardware upkeep.
 
 **RECENT PROJECTS**
+
+
 ***Re-refridge | an app to customize the inventory of refrigerators***
 - Developed to reduce food waste, Re-refridge uses NoSQL to store a user’s refrigerator inventory by adding and deleting food items.
 - Allows users to track expiration dates and receive recipe suggestions based on what is expiring soonest.
@@ -44,6 +46,8 @@ TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, R
 - Fake News reduces its space and time complexity by memoizing repeat inputs.
 	
 **EDUCATION**
+
+
 Resident at Codesmith's Tech Accelerator	2026
 George Washington University | BFA	2016
 

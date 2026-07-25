@@ -10,14 +10,16 @@ trishedith@gmail.com
 
 [github](github.com/trishedith)
 
-TECH
+**TECH**
 
 TypeScript, JavaScript, SQL, Python, React, TailWindCSS, HTML/CSS, Vite, Zustand, Express, Github, Git, Vercel, Linear, Pinecone, Co-pilot, Claude, Claude code, Mongoose, MongoDB, Supabase
 
-EXPERIENCE
+**EXPERIENCE**
 
-PatternBook [link to PatternBook website](https://www.patternbook.dev)
-FullStack Software Engineer and Team Lead	July 2025 - May 2026
+PatternBook 
+[link to PatternBook website](https://www.patternbook.dev)
+FullStack Software Engineer and Team Lead	
+July 2025 - May 2026
 - Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
 - Coordinated as team lead on a team of 5 FullStack software engineers.  Divided the team into backend and front end teams.  Ran daily standups to prevent task overlap and serve as the bridge between teams.
 - Product reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser.
@@ -27,11 +29,11 @@ FullStack Software Engineer and Team Lead	July 2025 - May 2026
 - Deployed the product marketing site on Vercel using Astro, connected to GitHub for version updates.
 
 BCCO NYC: Production Manager	August 2018 - January 2025
-Adobe, DECO, Microsoft Office 365, Google Drive
-Coordinated the daily operations including schedule implementation, inventory, and task delegation.  
-Researched and implemented direct-to-film printing in-house, reducing production costs by 70%.
+Tech: Adobe, DECO, Microsoft Office 365, Google Drive
+- Coordinated the daily operations including schedule implementation, inventory, and task delegation.  
+- Researched and implemented direct-to-film printing in-house, reducing production costs by 70%.
 
-RECENT PROJECTS
+**RECENT PROJECTS**
 
 MermaidSailoon [website direct link](https://www.mermaidsailoon.com)	
 December 2025 - Present

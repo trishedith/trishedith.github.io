@@ -1,50 +1,48 @@
-**AI/ML + Software Engineer** [LinkedIn](https://www.linkedin.com/in/trishomeara) | [GitHub](github.com/trishedith)
+	Patricia(Trish) O’Meara,  Software Engineer	(917) 608-9489
+ edithtrish@gmail.com 
+linkedin.com/in/trishomeara
+ github.com/trishedith
+TECH
 
+TypeScript, JavaScript, SQL, Python, React, TailWindCSS, HTML/CSS, Vite, Zustand, Express, Github, Git, Vercel, Linear, Pinecone, Co-pilot, Claude, Claude code, Mongoose, MongoDB, Supabase
 
-**TECHNICAL SKILLS**
+EXPERIENCE
 
-TypeScript, JavaScript (ES6+), Node.js, Python, React, TailwindCSS, CSS, HTML, Redux, Zustand, Express, SQL, PostgreSQL, Supabase, NoSQL, MongoDB, Git, GitHub, GitHub Actions, REST, Webpack, Vite, Jest, Pinecone, OpenAI API, Co-pilot, Claude, Gemini, Linear, Astro, Vercel, Kubernetes, Docker, AWS, Jira, Figma
+PatternBook link to PatternBook website
+FullStack Software Engineer and Team Lead	July 2025 - May 2026
+Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
+Coordinated as team lead on a team of 5 FullStack software engineers.  Divided the team into backend and front end teams.  Ran daily standups to prevent task overlap and serve as the bridge between teams.
+Product reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser.
+Built a library of reusable components with lifting state patterns, for example, buttons that dynamically re-render to mirror the components PatternBook was actively documenting.
+Architected a resizable, zero-config UI built with React, TypeScript, TailwindCSS, and Vite that integrates seamlessly into existing developer workflows.
+Enforced full-tree type safety using TypeScript and TS-Morph for static analysis, reducing runtime errors.
+Deployed the product marketing site on Vercel using Astro, connected to GitHub for version updates.
 
-**EXPERIENCE**
+BCCO NYC: Production Manager	August 2018 - January 2025
+Adobe, DECO, Microsoft Office 365, Google Drive
+Coordinated the daily operations including schedule implementation, inventory, and task delegation.  
+Researched and implemented direct-to-film printing in-house, reducing production costs by 70%.
 
-***PatternBook | Team Lead + FullStack Software Engineer	July 2025 - May 2026***
-- Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
-- Reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser
-- Owned cross-team coordination as team lead, running daily standups to prevent task overlap and serving as the bridge between the Front End and Back End teams
-- Architected a resizable, zero-config UI built with React, TypeScript, TailwindCSS, and Vite that integrates seamlessly into existing developer workflows
-- Enforced full-tree type safety using TypeScript and TS-Morph for static analysis, reducing runtime errors 
-- Built a library of reusable components with lifting state patterns — for example, buttons that dynamically re-render to mirror the components PatternBook was actively documenting
-- Minimized bundle footprint by scoping dependencies only to what was necessary, reducing package size and speeding up installation
-- Deployed the product marketing site on Vercel using Astro, connected to GitHub for automatic version updates 
+RECENT PROJECTS
 
-***BCCO NYC | Production Manager	August 2018 - January 2025***
-- Coordinated the daily operations including schedule implementation, inventory, and task delegation.  
-- Researched and implemented direct-to-film printing in-house, reducing production costs by 70%.
-- Designed samples using Adobe Photoshop to send to clients using MSOffice365.
-- Performed maintenance of Brother GTX printers including software updates and the calibration and hardware upkeep.
+MermaidSailoon website direct link	December 2025 - Present
+TypeScript, Node, React, Express, PineCone, Supabase, Git, Github, Vite
+A web browser video-game using TypeScript and a RESTful API uses React and reusable components to advance game play in a choose your own adventure story. 
+Used React’s modular components transfer state between levels and through the props object.
 
-**RECENT PROJECTS**
+TuneGraph github link to repo	November 2025 - January 2026
+TypeScript, React, Express, Vite, Spotify API, Git, Github
+Using Spotify’s API, TuneGraph is a product to visualize and share statistics from a user’s Spotify data from most-played songs, top artists, to favorite genres.
+This data was displayed using React to allow for components to receive new and updated information from the API without needing to reload the entire page.  
+The MVP displayed a module that toggles between a user’s artist and song statistics.
 
+Re-refridge youtube link to demo	October - November 2025
+TypeScript, React, MongoDB, Mongoose, Express, NoSQL
+Developed to reduce food waste, Re-refridge allows users to store a user’s refrigerator inventory by adding and deleting food items in method of CRUD fashion.
+Allows users to track expiration dates and receive recipe suggestions based on what is expiring soonest, transfers this state when user logs in or requests an update.  By creating an account and then creating a fridge for the account. Users can link and create multiple fridges for work or home.  In addition, a single fridge can have multiple users on the same fridge for families or roommates.
+By alerting users when an item is about to expire, the user can optimize meal planning by searching for related recipes linked with calorie and recipe APIs based on a user’s cuisine preference(s).
 
-***Re-refridge | an app to customize the inventory of refrigerators***
-- Developed to reduce food waste, Re-refridge uses NoSQL to store a user’s refrigerator inventory by adding and deleting food items.
-- Allows users to track expiration dates and receive recipe suggestions based on what is expiring soonest.
-- Users can also create multiple fridges for work or home.  In addition, a single fridge can have multiple users linked for families or roommates.
-- By alerting users when an item is about to expire, the user can optimize meal planning by searching for related recipes.
-- Future iterations can link with calorie apps and/or recipe sites based on a user’s cuisine preference(s).
-***Mermaid Sailoon | a “choose your adventure” indie web game***
-- Used React to create reusable components to transfer state efficiently with custom hooks and built-in hooks
-- Deployed using Vercel
-***Fake News | a “fact-checking” app***
-- Determines whether an input is factual by searching with a large language model (LLM).  Before it is returned, the output is augmented by cosine searching a Pinecone database composed of recent news articles and returning articles that provide additional context for further research.
-- This Pinecone database was created with OpenAI’s “text-embedding-3-small” model.  This model was specifically chosen because the database provided was in text format.
-- Fake News reduces its space and time complexity by memoizing repeat inputs.
-	
-**EDUCATION**
+EDUCATION
 
-
-Resident at Codesmith's Tech Accelerator	2026
-
-George Washington University | BFA	2016
-
-**INTERESTS** Fine art, bike adventuring, cats, live music, and videogames
+Codesmith Tech Accelerator Residency	2025-2026
+George Washington University,  B.F.A. in Fine Arts	2016

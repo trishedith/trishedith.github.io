@@ -1,10 +1,14 @@
 
 Patricia(Trish) O’Meara  
-Software Engineer	(917) 608-9489 
+Software Engineer	
 
-trishedith@gmail.com 
-linkedin.com/in/trishomeara
-github.com/trishedith
+(917) 608-9489 
+
+trishedith@gmail.com
+
+[linkedin](linkedin.com/in/trishomeara)
+
+[github](github.com/trishedith)
 
 TECH
 

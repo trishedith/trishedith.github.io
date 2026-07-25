@@ -58,4 +58,5 @@ Tech: TypeScript, React, MongoDB, Mongoose, Express, NoSQL
 EDUCATION
 
 Codesmith Tech Accelerator Residency	2025-2026
+
 George Washington University,  B.F.A. in Fine Arts	2016

@@ -1,18 +1,17 @@
-
-Patricia(Trish) O’Meara  
+Patricia(Trish) OMeara-Gillespie
 Software Engineer	
 
 (917) 608-9489 
 
 trishedith@gmail.com
 
-[linkedin](linkedin.com/in/trishomeara)
-
-[github](github.com/trishedith)
+[linkedin](linkedin.com/in/trishomeara) | [github](github.com/trishedith) | [website](https://www.mermaidsailoon.com)
 
 **TECH**
-
-TypeScript, JavaScript, SQL, Python, React, TailWindCSS, HTML/CSS, Vite, Zustand, Express, Github, Git, Vercel, Linear, Pinecone, Co-pilot, Claude, Claude code, Mongoose, MongoDB, Supabase
+TypeScript, JavaScript, Node.js, Python, React, Redux, TailWind, HTML/CSS
+Express, Mongoose, MongoDB, NoSQL, Supabase, SQL, Pinecone 
+Vite, Jest, Github, Git, Krita, Adobe,
+Co-pilot, Claude, Gemini, Codex, OpenAI, Vercel, Linear
 
 **EXPERIENCE**
 
@@ -20,13 +19,14 @@ PatternBook
 [link to PatternBook website](https://www.patternbook.dev)
 FullStack Software Engineer and Team Lead	
 July 2025 - May 2026
-- Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by auto-generating interactive visual documentation.
-- Coordinated as team lead on a team of 5 FullStack software engineers.  Divided the team into backend and front end teams.  Ran daily standups to prevent task overlap and serve as the bridge between teams.
-- Product reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser.
-- Built a library of reusable components with lifting state patterns, for example, buttons that dynamically re-render to mirror the components PatternBook was actively documenting.
-- Architected a resizable, zero-config UI built with React, TypeScript, TailwindCSS, and Vite that integrates seamlessly into existing developer workflows.
-- Enforced full-tree type safety using TypeScript and TS-Morph for static analysis, reducing runtime errors.
-- Deployed the product marketing site on Vercel using Astro, connected to GitHub for version updates.
+x Led ideation and end-to-end architecture of PatternBook, a zero-configuration developer tool that eliminates documentation rot by generating interactive visual documentation.
+x Product reduced developer onboarding time by 50%+ through dynamic component-relationship maps of components, props, and hooks in the user’s browser.
+x Coordinated as team lead on a team of 5 FullStack software engineers.  Divided the team into backend and frontend teams.  Ran daily standups to prevent task overlap and serve as the bridge between teams.
+x Built a library of reusable components with lifting state patterns, for example, buttons that dynamically re-render to mirror the components PatternBook was actively documenting.
+x Architected a resizable, zero-config UI built with React, TypeScript, TailwindCSS, and Vite that integrates seamlessly into existing developer workflows.
+x Enforced type safety using TypeScript and TS-Morph for static analysis, reducing runtime errors.
+x Deployed the product’s CICD with Vercel connected to GitHub for version updates.
+
 
 BCCO NYC: Production Manager	August 2018 - January 2025
 Tech: Adobe, DECO, Microsoft Office 365, Google Drive
@@ -38,8 +38,8 @@ Tech: Adobe, DECO, Microsoft Office 365, Google Drive
 MermaidSailoon [website direct link](https://www.mermaidsailoon.com)	
 December 2025 - Present
 Tech: TypeScript, Node, React, Express, PineCone, Supabase, Git, Github, Vite
-- A web browser video-game using TypeScript and a RESTful API uses React and reusable components to advance game play in a choose your own adventure story. 
-- Used React’s modular components transfer state between levels and through the props object.
+Coordinated the daily operations from logistics, scheduling, inventory, to assigning  tasks.
+Researched and implemented direct-to-film printing technique on site that reduced costs by 70%.
 
 TuneGraph [github link to repo](https://github.com/TuneGraph/TuneGraph)
 November 2025 - January 2026

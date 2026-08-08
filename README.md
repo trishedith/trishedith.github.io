@@ -1,5 +1,3 @@
-Patricia(Trish) OMeara-Gillespie, Software Engineer	
-
 (917) 608-9489 | edithtrish@gmail.com
 
 [linkedin](linkedin.com/in/trishomeara) | [github](github.com/trishedith) | [website](https://www.mermaidsailoon.com)
